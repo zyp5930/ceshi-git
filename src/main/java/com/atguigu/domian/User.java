@@ -6,7 +6,7 @@ package com.atguigu.domian;
  */
 
 public class User {
-    private Integer x;
+    private Integer ccc;
     private Integer d;
     private String nme;
 }
