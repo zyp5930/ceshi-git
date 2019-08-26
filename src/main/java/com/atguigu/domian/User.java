@@ -9,4 +9,5 @@ public class User {
     private Integer ccc;
     private Integer d;
     private String nme;
+    private Integer readme;
 }
